@@ -1,4 +1,4 @@
-Alex') and contain(../password,'M
+ Alex') and contain(../password,'M
 
 
 http://securityidiots.com/Web-Pentest/XPATH-Injection/Basics-XPATH-injection.html
