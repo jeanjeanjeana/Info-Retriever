@@ -15,6 +15,7 @@ git pull + origin master | Retrieve locally the latest changes from your online 
 git log | Shows all the commit made on your current located branch
 git branch + branch name | Create a new branch
 git checkout + branch name | Change branch
+git branch | See all the branches and see on which branch you are
 git checkout –b + branch name | Create and change branch at the same time
 git merge + branch name | Merge a branch to another
 git blame + file name.extension | List all modifications made on a file
