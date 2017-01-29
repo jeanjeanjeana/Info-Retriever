@@ -1,4 +1,4 @@
-# Command lines to use GitBash and an online Git repository
+﻿# Command lines to use GitBash and an online Git repository
 
 Command Line | Utility
 ------------ | -------------
@@ -65,6 +65,8 @@ To resolve this conflict, you have to open the concerned file (with vim or your 
 * [Some command lines in French](https://gist.github.com/aquelito/8596717)
 * [Some other command lines in English](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 * [Command lines in French](http://rogerdudler.github.io/git-guide/index.fr.html)
+
+#### If you want to contribute to a project follow this [link](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github/contribuer-a-des-projets-open-source) (in French).
 
 ----
 ## Other
